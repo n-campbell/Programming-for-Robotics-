@@ -1,0 +1,159 @@
+When "int chase_action = 1;" at all times,
+with "./chase 30 0 19" on terminal,
+
+
+time_step 0: Chaser is moving from 320.00, 240.00 to 322.00, 240.00
+time_step 0: Runner is moving from 140.00, 60.00 to 140.00, 60.00
+0 1
+
+time_step 1: Chaser is moving from 322.00, 240.00 to 326.00, 240.00
+time_step 1: Runner is moving from 140.00, 60.00 to 140.00, 60.00
+0 1
+
+time_step 2: Chaser is moving from 326.00, 240.00 to 332.00, 240.00
+time_step 2: Runner is moving from 140.00, 60.00 to 140.00, 60.00
+0 1
+
+time_step 3: Chaser is moving from 332.00, 240.00 to 340.00, 240.00
+time_step 3: Runner is moving from 140.00, 60.00 to 140.00, 60.00
+0 1
+
+time_step 4: Chaser is moving from 340.00, 240.00 to 350.00, 240.00
+time_step 4: Runner is moving from 140.00, 60.00 to 140.00, 60.00
+0 1
+
+time_step 5: Chaser is moving from 350.00, 240.00 to 362.00, 240.00
+time_step 5: Runner is moving from 140.00, 60.00 to 140.00, 60.00
+0 1
+
+time_step 6: Chaser is moving from 362.00, 240.00 to 374.00, 240.00
+time_step 6: Runner is moving from 140.00, 60.00 to 140.00, 60.00
+0 1
+
+time_step 7: Chaser is moving from 374.00, 240.00 to 386.00, 240.00
+time_step 7: Runner is moving from 140.00, 60.00 to 140.00, 60.00
+0 1
+
+time_step 8: Chaser is moving from 386.00, 240.00 to 398.00, 240.00
+time_step 8: Runner is moving from 140.00, 60.00 to 140.00, 60.00
+0 1
+--- time_step 8: Chaser collision recovery w/ tile (10, 6) from (398.00, 240.00) to (397.63, 239.66) with robot polygon xs: (411.33, 384.67, 384.67) ys: (240.00, 250.00, 230.00)
+--- time_step 8: Chaser collision recovery w/ tile (10, 6) from (397.63, 239.66) to (397.26, 239.33) with robot polygon xs: (410.96, 384.30, 384.30) ys: (239.66, 249.66, 229.66)
+--- time_step 8: Chaser collision recovery w/ tile (10, 6) from (397.26, 239.33) to (396.89, 238.99) with robot polygon xs: (410.59, 383.93, 383.93) ys: (239.33, 249.33, 229.33)
+--- time_step 8: Chaser collision recovery w/ tile (10, 6) from (396.89, 238.99) to (396.52, 238.65) with robot polygon xs: (410.22, 383.56, 383.56) ys: (238.99, 248.99, 228.99)
+--- time_step 8: Chaser collision recovery w/ tile (10, 6) from (396.52, 238.65) to (396.15, 238.32) with robot polygon xs: (409.85, 383.19, 383.19) ys: (238.65, 248.65, 228.65)
+--- time_step 8: Chaser collision recovery w/ tile (10, 6) from (396.15, 238.32) to (395.78, 237.98) with robot polygon xs: (409.48, 382.82, 382.82) ys: (238.32, 248.32, 228.32)
+--- time_step 8: Chaser collision recovery w/ tile (10, 6) from (395.78, 237.98) to (395.41, 237.65) with robot polygon xs: (409.11, 382.45, 382.45) ys: (237.98, 247.98, 227.98)
+--- time_step 8: Chaser collision recovery w/ tile (10, 6) from (395.41, 237.65) to (395.04, 237.31) with robot polygon xs: (408.74, 382.08, 382.08) ys: (237.65, 247.65, 227.65)
+--- time_step 8: Chaser collision recovery w/ tile (10, 6) from (395.04, 237.31) to (394.67, 236.97) with robot polygon xs: (408.37, 381.71, 381.71) ys: (237.31, 247.31, 227.31)
+
+time_step 9: Chaser is moving from 394.67, 236.97 to 399.67, 236.97
+time_step 9: Runner is moving from 140.00, 60.00 to 142.00, 60.00
+1 1
+--- time_step 9: Chaser collision recovery w/ tile (10, 6) from (399.67, 236.97) to (399.34, 236.60) with robot polygon xs: (413.00, 386.34, 386.34) ys: (236.97, 246.97, 226.97)
+--- time_step 9: Chaser collision recovery w/ tile (10, 6) from (399.34, 236.60) to (399.01, 236.22) with robot polygon xs: (412.67, 386.01, 386.01) ys: (236.60, 246.60, 226.60)
+--- time_step 9: Chaser collision recovery w/ tile (10, 6) from (399.01, 236.22) to (398.68, 235.85) with robot polygon xs: (412.34, 385.68, 385.68) ys: (236.22, 246.22, 226.22)
+--- time_step 9: Chaser collision recovery w/ tile (10, 6) from (398.68, 235.85) to (398.35, 235.47) with robot polygon xs: (412.01, 385.34, 385.34) ys: (235.85, 245.85, 225.85)
+
+time_step 10: Chaser is moving from 398.35, 235.47 to 401.60, 235.47
+time_step 10: Runner is moving from 142.00, 60.00 to 143.96, 59.61
+2 1
+--- time_step 10: Chaser collision recovery w/ tile (10, 6) from (401.60, 235.47) to (401.30, 235.07) with robot polygon xs: (414.93, 388.26, 388.26) ys: (235.47, 245.47, 225.47)
+--- time_step 10: Chaser collision recovery w/ tile (10, 6) from (401.30, 235.07) to (401.00, 234.67) with robot polygon xs: (414.63, 387.96, 387.96) ys: (235.07, 245.07, 225.07)
+--- time_step 10: Chaser collision recovery w/ tile (10, 6) from (401.00, 234.67) to (400.70, 234.27) with robot polygon xs: (414.33, 387.66, 387.66) ys: (234.67, 244.67, 224.67)
+
+time_step 11: Chaser is moving from 400.70, 234.27 to 403.51, 234.27
+time_step 11: Runner is moving from 143.96, 59.61 to 145.84, 58.92
+0 1
+--- time_step 11: Chaser collision recovery w/ tile (10, 6) from (403.51, 234.27) to (403.24, 233.85) with robot polygon xs: (416.84, 390.18, 390.18) ys: (234.27, 244.27, 224.27)
+--- time_step 11: Chaser collision recovery w/ tile (10, 6) from (403.24, 233.85) to (402.97, 233.43) with robot polygon xs: (416.57, 389.91, 389.91) ys: (233.85, 243.85, 223.85)
+
+time_step 12: Chaser is moving from 402.97, 233.43 to 405.67, 233.43
+time_step 12: Runner is moving from 145.84, 58.92 to 147.61, 58.00
+0 1
+--- time_step 12: Chaser collision recovery w/ tile (10, 6) from (405.67, 233.43) to (405.43, 232.99) with robot polygon xs: (419.01, 392.34, 392.34) ys: (233.43, 243.43, 223.43)
+--- time_step 12: Chaser collision recovery w/ tile (10, 6) from (405.43, 232.99) to (405.20, 232.55) with robot polygon xs: (418.77, 392.10, 392.10) ys: (232.99, 242.99, 222.99)
+
+time_step 13: Chaser is moving from 405.20, 232.55 to 407.87, 232.55
+time_step 13: Runner is moving from 147.61, 58.00 to 149.29, 56.90
+0 1
+--- time_step 13: Chaser collision recovery w/ tile (10, 6) from (407.87, 232.55) to (407.67, 232.09) with robot polygon xs: (421.21, 394.54, 394.54) ys: (232.55, 242.55, 222.55)
+
+time_step 14: Chaser is moving from 407.67, 232.09 to 410.34, 232.09
+time_step 14: Runner is moving from 149.29, 56.90 to 150.87, 55.67
+0 1
+--- time_step 14: Chaser collision recovery w/ tile (10, 6) from (410.34, 232.09) to (410.18, 231.62) with robot polygon xs: (423.67, 397.01, 397.01) ys: (232.09, 242.09, 222.09)
+--- time_step 14: Chaser collision recovery w/ tile (10, 6) from (410.18, 231.62) to (410.01, 231.15) with robot polygon xs: (423.51, 396.84, 396.84) ys: (231.62, 241.62, 221.62)
+
+time_step 15: Chaser is moving from 410.01, 231.15 to 412.68, 231.15
+time_step 15: Runner is moving from 150.87, 55.67 to 152.36, 54.35
+0 1
+--- time_step 15: Chaser collision recovery w/ tile (10, 6) from (412.68, 231.15) to (412.56, 230.66) with robot polygon xs: (426.01, 399.35, 399.35) ys: (231.15, 241.15, 221.15)
+--- time_step 15: Chaser collision recovery w/ tile (10, 6) from (412.56, 230.66) to (412.43, 230.18) with robot polygon xs: (425.89, 399.22, 399.22) ys: (230.66, 240.66, 220.66)
+
+time_step 16: Chaser is moving from 412.43, 230.18 to 415.10, 230.18
+time_step 16: Runner is moving from 152.36, 54.35 to 153.79, 52.95
+0 1
+--- time_step 16: Chaser collision recovery w/ tile (10, 6) from (415.10, 230.18) to (415.02, 229.69) with robot polygon xs: (428.43, 401.77, 401.77) ys: (230.18, 240.18, 220.18)
+
+time_step 17: Chaser is moving from 415.02, 229.69 to 417.69, 229.69
+time_step 17: Runner is moving from 153.79, 52.95 to 155.16, 51.49
+0 1
+
+time_step 18: Chaser is moving from 417.69, 229.69 to 422.35, 229.69
+time_step 18: Runner is moving from 155.16, 51.49 to 156.48, 49.99
+0 1
+--- time_step 18: Runner collision recovery w/ tile (4, 0) from (156.48, 49.99) to (156.17, 50.38) with robot polygon xs: (165.28, 155.19, 140.17) ys: (39.97, 66.60, 53.40)
+
+time_step 19: Chaser is moving from 422.35, 229.69 to 429.02, 229.69
+time_step 19: Runner is moving from 156.17, 50.38 to 156.49, 50.00
+0 1
+--- time_step 19: Runner collision recovery w/ tile (4, 0) from (156.49, 50.00) to (156.18, 50.39) with robot polygon xs: (165.02, 155.64, 140.27) ys: (39.75, 66.64, 53.84)
+
+time_step 20: Chaser is moving from 429.02, 229.69 to 437.69, 229.69
+time_step 20: Runner is moving from 156.18, 50.39 to 156.26, 50.29
+0 1
+--- time_step 20: Runner collision recovery w/ tile (4, 0) from (156.26, 50.29) to (155.95, 50.69) with robot polygon xs: (164.58, 155.76, 140.13) ys: (39.87, 66.95, 54.48)
+
+time_step 21: Chaser is moving from 437.69, 229.69 to 448.35, 229.69
+time_step 21: Runner is moving from 155.95, 50.69 to 155.97, 50.66
+0 1
+
+time_step 22: Chaser is moving from 448.35, 229.69 to 460.35, 229.69
+time_step 22: Runner is moving from 155.97, 50.66 to 155.99, 50.64
+0 1
+--- time_step 22: Runner collision recovery w/ tile (4, 0) from (155.99, 50.64) to (155.68, 51.03) with robot polygon xs: (163.99, 156.00, 139.99) ys: (39.97, 67.30, 55.31)
+
+time_step 23: Chaser is moving from 460.35, 229.69 to 472.35, 229.69
+time_step 23: Runner is moving from 155.68, 51.03 to 155.69, 51.02
+0 1
+
+time_step 24: Chaser is moving from 472.35, 229.69 to 484.35, 229.69
+time_step 24: Runner is moving from 155.69, 51.02 to 155.69, 51.02
+2 1
+--- time_step 24: Runner collision recovery w/ tile (4, 0) from (155.69, 51.02) to (155.38, 51.41) with robot polygon xs: (161.21, 159.27, 141.06) ys: (38.88, 67.29, 59.01)
+--- time_step 24: Runner collision recovery w/ tile (4, 0) from (155.38, 51.41) to (155.07, 51.80) with robot polygon xs: (160.91, 158.96, 140.76) ys: (39.27, 67.69, 59.40)
+--- time_step 24: Runner collision recovery w/ tile (4, 0) from (155.07, 51.80) to (154.76, 52.20) with robot polygon xs: (160.60, 158.65, 140.45) ys: (39.67, 68.08, 59.79)
+
+time_step 25: Chaser is moving from 484.35, 229.69 to 496.35, 229.69
+time_step 25: Runner is moving from 154.76, 52.20 to 154.77, 52.19
+0 1
+--- time_step 25: Runner collision recovery w/ tile (3, 0) from (154.77, 52.19) to (154.97, 52.65) with robot polygon xs: (158.23, 160.95, 141.64) ys: (39.32, 67.67, 62.47)
+--- time_step 25: Runner collision recovery w/ tile (3, 0) from (154.97, 52.65) to (155.18, 53.10) with robot polygon xs: (158.44, 161.16, 141.85) ys: (39.78, 68.13, 62.92)
+
+time_step 26: Chaser is moving from 496.35, 229.69 to 508.35, 229.69
+time_step 26: Runner is moving from 155.18, 53.10 to 155.18, 53.10
+2 1
+--- time_step 26: Runner collision recovery w/ tile (3, 0) from (155.18, 53.10) to (155.39, 53.56) with robot polygon xs: (154.33, 166.02, 146.06) ys: (39.80, 65.77, 67.05)
+
+time_step 27: Chaser is moving from 508.35, 229.69 to 520.35, 229.69
+time_step 27: Runner is moving from 155.39, 53.56 to 155.39, 53.56
+0 1
+
+time_step 28: Chaser is moving from 520.35, 229.69 to 532.35, 229.69
+time_step 28: Runner is moving from 155.39, 53.56 to 155.39, 53.56
+0 1
+
+time_step 29: Chaser is moving from 532.35, 229.69 to 544.35, 229.69
+time_step 29: Runner is moving from 155.39, 53.56 to 155.39, 53.56
+0 1
